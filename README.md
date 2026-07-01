@@ -25,15 +25,15 @@ If you find this repository usefull for your research, please cite the following
   copyright = "http://creativecommons.org/licenses/by/4.0/",
   language  = "en"
 }
-
-@misc{cherednichenko2025friendfoe,
-  title={Friend or Foe}, 
-  author={Oleksandr Cherednichenko and Josephine Solowiej-Wedderburn and Laura M. Carroll and Eric Libby},
-  year={2025},
-  eprint={2509.00123},
-  archivePrefix={arXiv},
-  primaryClass={q-bio.QM},
-  url={https://arxiv.org/abs/2509.00123}, 
+  
+@misc{cherednichenko2026friendfoe,
+      title={Friend or Foe}, 
+      author={Oleksandr Cherednichenko and Josephine Solowiej-Wedderburn and Laura M. Carroll and Eric Libby},
+      year={2026},
+      eprint={2509.00123},
+      archivePrefix={arXiv},
+      primaryClass={q-bio.QM},
+      url={https://arxiv.org/abs/2509.00123}, 
 }
 </pre>
 
